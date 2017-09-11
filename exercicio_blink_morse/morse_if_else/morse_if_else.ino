@@ -156,7 +156,7 @@ void setup() {
   
 // the loop function runs over and over again forever
 void loop() {
-  char namestring[] = "LUIZ";
+  char namestring[] = "LLLLUUUUEEE";
   morseBlinker(namestring);
 } 
   
